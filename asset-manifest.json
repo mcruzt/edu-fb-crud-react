@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/edu-fb-crud-react/static/css/main.3c076489.chunk.css",
+    "main.js": "/edu-fb-crud-react/static/js/main.39a9c8fd.chunk.js",
+    "main.js.map": "/edu-fb-crud-react/static/js/main.39a9c8fd.chunk.js.map",
+    "runtime-main.js": "/edu-fb-crud-react/static/js/runtime-main.8fbee398.js",
+    "runtime-main.js.map": "/edu-fb-crud-react/static/js/runtime-main.8fbee398.js.map",
+    "static/css/2.c88bba55.chunk.css": "/edu-fb-crud-react/static/css/2.c88bba55.chunk.css",
+    "static/js/2.727f29cd.chunk.js": "/edu-fb-crud-react/static/js/2.727f29cd.chunk.js",
+    "static/js/2.727f29cd.chunk.js.map": "/edu-fb-crud-react/static/js/2.727f29cd.chunk.js.map",
+    "index.html": "/edu-fb-crud-react/index.html",
+    "precache-manifest.224b8e117769bfd92ff0dfef1ad371ff.js": "/edu-fb-crud-react/precache-manifest.224b8e117769bfd92ff0dfef1ad371ff.js",
+    "service-worker.js": "/edu-fb-crud-react/service-worker.js",
+    "static/css/2.c88bba55.chunk.css.map": "/edu-fb-crud-react/static/css/2.c88bba55.chunk.css.map",
+    "static/css/main.3c076489.chunk.css.map": "/edu-fb-crud-react/static/css/main.3c076489.chunk.css.map",
+    "static/js/2.727f29cd.chunk.js.LICENSE.txt": "/edu-fb-crud-react/static/js/2.727f29cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fbee398.js",
+    "static/css/2.c88bba55.chunk.css",
+    "static/js/2.727f29cd.chunk.js",
+    "static/css/main.3c076489.chunk.css",
+    "static/js/main.39a9c8fd.chunk.js"
+  ]
+}
